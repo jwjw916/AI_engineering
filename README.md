@@ -1,5 +1,5 @@
 # 최종프로젝트 by 우리FIS 아카데미 1기 AI 엔지니어링
-URL: https://youtu.be/WycMx2aSoEc?si=eh4dv55EmlsXPd0x
+시현 영상 URL: https://youtu.be/WycMx2aSoEc?si=eh4dv55EmlsXPd0x
 ### 프로젝트 개요
 - 주제: 투자자를 위한 인공지능 포트폴리오 전략 제안 서비스
 - 기간: 2023.08.04 ~ 2023.09.19
